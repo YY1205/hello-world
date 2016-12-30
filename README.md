@@ -1,3 +1,3 @@
 # hello-world
-daily cozy
+daily cozy\n
 I enjoy every moment in the world.
